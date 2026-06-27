@@ -2,6 +2,10 @@
 
 Automated lead processing system with AI analysis and manager approval via Telegram.
 
+## Demo
+
+![Lead Pipeline Telegram notification](Screenshot.png)
+
 ## How it works
 
 1. Client submits a form (Tally or any webhook source)
